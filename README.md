@@ -102,18 +102,6 @@
 
 <br/>
 
-<!-- <div align="center">
-     <a href="https://www.codewars.com/users/YaroshUlad">
-        <img src="img.gif"  width="300"/>
-     </a>
-</div>
-<div align="center">
-    <a href="https://www.codewars.com/users/YaroshUlad">
-        <img src="https://www.codewars.com/users/YaroshUlad/badges/small"
-             title="CodeWars" alt="CodeWars"/>
-    </a>
-</div> -->
-
 <!-- FOOTER -->
 <div align="center">
     <a href=mailto:yarosh.uladzimir@gmail.com target="_blank">
