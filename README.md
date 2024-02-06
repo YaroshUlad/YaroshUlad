@@ -1,7 +1,7 @@
 <!-- HEARER -->
 <div align="center">
      <a href="" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=250&section=header&text=Ulad%20Yarosh&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=78&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=17"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=290&section=header&text=Ulad%20Yarosh&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=78&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=15"/>
 </div>
     </a>
 <!-- /HEARER -->
