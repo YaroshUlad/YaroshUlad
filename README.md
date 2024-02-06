@@ -1,14 +1,14 @@
 <!-- HEARER -->
 <div align="center">
      <a href="" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=190&section=header&text=Ilya%20Pasternak&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=17"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=190&section=header&text=Uladzimir%20Yarosh&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=17"/>
 </div>
     </a>
 <!-- /HEARER -->
 
 <!-- ./STAT -->
 <div align="center">
-    <a href="https://skyline.github.com/PasterZOOM/2022" target="_blank">
+    <a href="https://skyline.github.com/YaroshUlad/2022" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaroshUlad&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="YaroshUlad" 
              alt="YaroshUlad"
@@ -105,7 +105,7 @@
 </div>
 <div align="center">
     <a href="https://www.codewars.com/users/YaroshUlad">
-        <img src="https://www.codewars.com/users/pasterzoom/badges/small"
+        <img src="https://www.codewars.com/users/YaroshUlad/badges/small"
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div> -->
