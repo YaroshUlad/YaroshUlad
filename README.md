@@ -1,3 +1,4 @@
+<!--
 <!-- HEARER -->
 <div align="center">
      <a href="" target="_blank">
@@ -109,3 +110,4 @@
     </a>
 </div>
 <!-- FOOTER -->
+-->
